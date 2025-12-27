@@ -1,9 +1,15 @@
 # Hi there, I'm Leandro Martins! 👋
 ### Software Architect & Senior Developer
 
-I am a versatile Software Architect with **14+ years of experience** delivering impactful solutions in diverse domains, including public sector, financial services, healthcare, and innovation labs.
+Software Architect | Tech Lead | Full Stack Developer (Java, Node.js, React) | Cloud and Generative AI
 
-My passion lies in designing scalable architectures and leading innovation initiatives. I have a strong track record in building **Core Banking systems**, **B2B solutions**, and Proof of Concepts (POCs) for **PIX** and **Open Banking**.
+Some results and impacts:
+Increased pipeline efficiency by 30% with automated CI/CD.
+Led a team of 6 developers, delivering 4 critical products on time.
+Reduced production integration failures by 25% with Kafka and Debezium.
+Accelerated the development of AI MVPs by 40%, adopting low-code frameworks.
+
+Professional with over 14 years of experience in microservices architecture, cloud-native applications (AWS, Azure, GCP) and real-time data integrations, automation, generative AI, and technical leadership of multidisciplinary teams.
 
 ---
 
