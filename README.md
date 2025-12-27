@@ -20,14 +20,15 @@ Professional with over 14 years of experience in microservices architecture, clo
 * **Frontend:** React.js
 * **Cloud & DevOps:** AWS Cloud, Docker, CI/CD pipelines
 * **Architecture:** Microservices, Serverless, Event-Driven
+* **Generative AI and Agents:** Langflow, Flowise, N8N, Langsmith
+* **No-code and Vibe coding:** Nocobase and Claude Code
 
 ---
 
 ### 🚀 What I'm up to
 
-* 🔭 I’m currently working on high-scalability architectures for Fintechs.
-* 🌱 I’m currently learning more about [Insira aqui algo novo que está estudando, ex: AI Agents, Rust, etc].
-* 💬 Ask me about **System Design, Open Banking, and Cloud Architecture.**
+* 🔭 I’m currently working on high-scalability architectures for Telecom.
+* 💬 Ask me about **System Design, Generative AI, NodeJS, Nocobase, Agents AI.**
 
 ---
 
