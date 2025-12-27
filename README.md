@@ -1,24 +1,44 @@
-# About me
+# Hi there, I'm Leandro Martins! 👋
+### Software Architect & Senior Developer
 
-👋 Meu nome é Leandro, sou um Arquiteto de Software e Desenvolvedor versátil com mais de 14 anos de experiência na entrega de soluções impactantes em diversos domínios, incluindo setor público, serviços financeiros, saúde e laboratórios de inovação. Profundo conhecimento em Node.js, React.js, Spring Boot e AWS Cloud, especializado em criar arquiteturas escaláveis, liderar iniciativas de inovação e desenvolver aplicações centradas no usuário. Principais conquistas incluem o design de sistemas bancários core, implementação de soluções B2B e construção de Provas de Conceito (POCs) para PIX, Open Banking e Contas Digitais.
+I am a versatile Software Architect with **14+ years of experience** delivering impactful solutions in diverse domains, including public sector, financial services, healthcare, and innovation labs.
 
-Portuguese Blog: https://medium.com/@leandro.jm
+My passion lies in designing scalable architectures and leading innovation initiatives. I have a strong track record in building **Core Banking systems**, **B2B solutions**, and Proof of Concepts (POCs) for **PIX** and **Open Banking**.
 
-----
+---
 
-👋 My name is Leandro, I am a versatile Software Architect and Developer with over 14 years of experience delivering impactful solutions in diverse domains, including public sector, financial services, healthcare, and innovation labs. Proficient in Node.js, React.js, Spring Boot, and AWS Cloud, I specialize in creating scalable architectures, leading innovation initiatives, and developing user-centric applications. Key achievements include designing core banking systems, implementing B2B solutions, and building Proof of Concepts (POCs) for PIX, Open Banking, and Digital Accounts.
+### 🛠 Tech Stack & Tools
 
-English Blog: https://leandromartins.hashnode.dev/
+* **Languages:** JavaScript/TypeScript, Java
+* **Backend:** Node.js, Spring Boot
+* **Frontend:** React.js
+* **Cloud & DevOps:** AWS Cloud, Docker, CI/CD pipelines
+* **Architecture:** Microservices, Serverless, Event-Driven
 
-# My networks
+---
 
-https://lnk.bio/leandrojmartins
+### 🚀 What I'm up to
 
-# My activities
+* 🔭 I’m currently working on high-scalability architectures for Fintechs.
+* 🌱 I’m currently learning more about [Insira aqui algo novo que está estudando, ex: AI Agents, Rust, etc].
+* 💬 Ask me about **System Design, Open Banking, and Cloud Architecture.**
 
-![alt text](git-wrapped-leandro-jm.png)
+---
 
-<!---
-leandro-jm/leandro-jm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ✍️ Blog & Content
+
+I write about technology, career, and software architecture.
+
+* 🇺🇸 **English Blog:** [Hashnode](https://leandromartins.hashnode.dev/)
+* 🇧🇷 **Blog em Português:** [Medium](https://medium.com/@leandro.jm)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkBio](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/leandrojmartins)
+
+---
+*📍 Florianópolis, Brazil*
+
